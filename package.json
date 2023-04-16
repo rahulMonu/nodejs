@@ -1,6 +1,19 @@
 {
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NavbarPage.js",
+  "scripts": {
+    "start": "nodemon NavbarPage.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "nodemailer": "^6.9.1",
-    "upper-case": "^2.0.2"
-  }
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  } 
 }

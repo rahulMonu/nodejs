@@ -7,5 +7,7 @@
 
 /********************************************** */
 
-require("./pathModule")
+//require("./pathModule")
+//require("./FileReadAsync")
+require("./NavbarPage")
 
